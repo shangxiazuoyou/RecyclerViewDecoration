@@ -1,2 +1,2 @@
-# RecyclerviewDecoration
-RecyclerviewDecoration
+# RecyclerViewDecoration
+RecyclerViewDecoration
